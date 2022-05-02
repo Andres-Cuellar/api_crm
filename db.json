@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Andres Actualizado",
+      "empresa": "Glump",
+      "email": "afca133@gmail.com",
+      "telefono": "3134030854",
+      "notas": "6546a54sdasd",
+      "id": 2
+    },
+    {
+      "nombre": "Felipe Actualizado",
+      "empresa": "Glump",
+      "email": "hello@glumpstudio.com",
+      "telefono": "3134030854",
+      "notas": "ninguna",
+      "id": 3
+    },
+    {
+      "nombre": "Camila",
+      "empresa": "Glump",
+      "email": "hello@glumpstudio.com",
+      "telefono": "3134030854",
+      "notas": "Ninguna nota",
+      "id": 4
+    }
+  ]
+}
